@@ -124,4 +124,8 @@
                 <drawbacks>The Ruby Gemborn can't cast spells or concentrate on spells while raging.</drawbacks>
             </rage>
             <cantrips>
-                <cantrip>Fire Bolt</cantrip
+                <cantrip>Fire Bolt</cantrip>
+            </cantrips>
+</subrace>
+</subraces>
+</race>
